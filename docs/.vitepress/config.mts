@@ -74,6 +74,10 @@ export default withMermaid(defineConfig({
       {
         text: '结语 (🚧施工中)',
         link: '/chapter7/'
+      },
+      {
+        text: '📎 附录：AI 科研绘图实战速查手册',
+        link: '/appendix/quick-reference'
       }
     ],
 
