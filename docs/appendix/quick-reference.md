@@ -170,7 +170,7 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="../media/ch3/image2.jpeg" width="550"/></td>
+    <td align="center"><img src="../media/ch3/image2.png" width="550"/></td>
   </tr>
 </table>
 Transformer 架构插图初稿
@@ -469,7 +469,7 @@ High-fidelity scientific illustration, BioRender style, 3D semi-realistic render
 
 处理完成后，依次点击 **"扩展"** 与 **"取消编组"**，即可对各个矢量对象进行灵活拖动或单独编辑。完整的操作流程可参考下方视频教程：
 
-> [AI科研绘图降维打击！传统手绘工具人破防瞬间，只需点一下这个高保真度……_](https://www.bilibili.com/video/BV12VQPBDE8Y)
+> 🎬 [AI科研绘图降维打击！传统手绘工具人破防瞬间，只需点一下这个高保真度……](https://www.bilibili.com/video/BV12VQPBDE8Y)
 
 下图展示了基于推荐参数的图像描摹操作流程与最终效果：
 
