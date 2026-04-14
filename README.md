@@ -96,8 +96,8 @@
 | :--- | :--- | :---: |
 | **前言** | [项目的初衷、愿景与核心价值](docs/preface.md) | ✅ |
 | **第一部分：认知与工具 (入门篇)** | | |
-| [第一章 导论](docs/chapter1/index.md) | AI 时代科研绘图的新范式与本质认知 | ✅ |
-| [第二章 工具速查](docs/chapter2/index.md) | Nano-Banana Pro 快速接入与基础操作指南 | ✅ |
+| [第一章 认识科研绘图](docs/chapter1/index.md) | AI 时代科研绘图的新范式与本质认知 | ✅ |
+| [第二章 AI 绘图核心技法与工具链](docs/chapter2/index.md) | Nano-Banana Pro 快速接入与基础操作指南 | ✅ |
 | **第二部分：方法与实战 (实战篇)** | | |
 | [第三章 提示词工程](docs/chapter3/index.md) | 结构化视觉图式 (Visual Schema) 的构建逻辑 | 🚧 |
 | [第四章 场景实战](docs/chapter4/index.md) | 材料、化学、生物、医学等学科专属出图攻略 | 🚧 |
