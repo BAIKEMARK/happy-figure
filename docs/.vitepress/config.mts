@@ -53,8 +53,8 @@ export default withMermaid(defineConfig({
       {
         text: '第一部分：认知与工具 (入门篇)',
         items: [
-          { text: '第一章：导论', link: '/chapter1/' },
-          { text: '第二章：工具速查', link: '/chapter2/' }
+          { text: '第一章：认识科研绘图', link: '/chapter1/' },
+          { text: '第二章：AI 绘图核心技法与工具链', link: '/chapter2/' }
         ]
       },
       {
